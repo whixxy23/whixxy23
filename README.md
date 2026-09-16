@@ -81,9 +81,9 @@ RDS PostgreSQL
 
 "// github"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=whixxy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/><img src="https://streak-stats.demolab.com/?user=whixxy&hide_border=true&theme=transparent" height="165"/><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=whixxy23&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/><img src="https://streak-stats.demolab.com/?user=whixxy23&hide_border=true&theme=transparent" height="165"/><br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whixxy&hide_border=true&theme=github-compact" width="90%"/></div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whixxy23&hide_border=true&theme=github-compact" width="90%"/></div>---
 
 <div align="center">"[ SYSTEM ONLINE ]"
 
