@@ -1,25 +1,18 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=WHIXXY;DevOps+%2F+Cloud;Infrastructure+%2F+Automation;Systems+%2F+Reliability" /><br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=2&section=header" width="80%"/></div><br>┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   WHIXXY // SYSTEM PROFILE                                  │
-│                                                              │
-│   status        : ONLINE                                    │
-│   environment   : CLOUD                                    │
-│   focus         : INFRASTRUCTURE                            │
-│   automation    : ENABLED                                  │
-│   containers    : RUNNING                                  │
-│   deployments   : AUTOMATED                                │
-│                                                              │
-│   $ ./build --quiet                                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=WHIXXY;DevOps+%2F+Cloud;Infrastructure+%2F+Automation;Systems+%2F+Reliability" /><br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=2&section=header" width="80%"/><br><br>
+
+"DevOps"  •  "Cloud"  •  "Infrastructure"  •  "Automation"  •  "CI/CD"
+
+<br><br>
+
+<i>building systems behind the screen.</i>
+
+</div>---
 
 "// about"
 
-I build the systems behind the systems.
+I build around the layer most people don't see.
 
-My world is DevOps, Cloud infrastructure, automation, containers, CI/CD, and reliability.
-
-I enjoy taking something that works manually and turning it into something that can be built, deployed, observed, and repeated.
+My focus is DevOps and Cloud engineering — infrastructure, automation, containers, CI/CD, deployment, and reliability.
 
 Currently going deeper into Kubernetes, DevSecOps, SRE, observability, and cloud architecture.
 
@@ -27,12 +20,12 @@ Currently going deeper into Kubernetes, DevSecOps, SRE, observability, and cloud
 
 "// stack"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,nginx,githubactions,git,bash,python,nodejs,postgres,dotnet" /></div><br>CLOUD          AWS
-INFRA          Terraform · Ansible · Linux
-CONTAINERS     Docker · Compose · Kubernetes
-CI/CD          Git · GitHub Actions
-OBSERVABILITY  Prometheus · Grafana · Logs · Metrics
-DEVELOPMENT    Python · Node.js · PostgreSQL · .NET · Bash
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,nginx,githubactions,git,bash,python,nodejs,postgres,dotnet" /></div><br>Cloud — AWS · EC2 · VPC · S3 · RDS · IAM
+Infrastructure — Terraform · Ansible · Linux · Nginx
+Containers — Docker · Docker Compose · Kubernetes
+CI/CD — Git · GitHub Actions
+Observability — Prometheus · Grafana · Logs · Metrics
+Development — Python · Node.js · PostgreSQL · .NET · Bash
 
 ---
 
@@ -40,15 +33,9 @@ DEVELOPMENT    Python · Node.js · PostgreSQL · .NET · Bash
 
 "01 — ScholarFlow"
 
-Scholarship management platform with DevOps infrastructure covering:
+DevOps infrastructure and deployment for a scholarship management platform.
 
-- Containerized application services
-- AWS infrastructure
-- CI/CD
-- Networking
-- Database infrastructure
-- Deployment
-- Production troubleshooting
+Containerization, AWS infrastructure, CI/CD, networking, database infrastructure, deployment and production troubleshooting.
 
 "Docker" "AWS" "Terraform" "Nginx" "SQL Server" "CI/CD"
 
@@ -66,17 +53,15 @@ Designed and automated the path from local development to a live cloud deploymen
 
 "03 — Cloud Services & Web App Deployment"
 
-Flask application deployed on AWS EC2 with a managed PostgreSQL database through Amazon RDS.
+Flask application deployed on AWS EC2 with managed PostgreSQL through Amazon RDS.
 
 Application
      ↓
-EC2
+   EC2
      ↓
-Nginx
+  Nginx
      ↓
 RDS PostgreSQL
-     ↓
-Internet
 
 "Flask" "AWS" "EC2" "RDS" "Nginx" "Linux"
 
@@ -84,41 +69,15 @@ Internet
 
 "// currently"
 
-                    WHIXXY
-                       │
-             ┌─────────┴─────────┐
-             │                   │
-          BUILDING            LEARNING
-             │                   │
-        Cloud Systems        Kubernetes
-        Automation           DevSecOps
-        CI/CD                SRE
-        Infrastructure       Observability
-             │                   │
-             └─────────┬─────────┘
-                       │
-                    RELIABLE
-                     SYSTEMS
-
----
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=808080&center=true&vCenter=true&width=650&height=40&lines=learning+Kubernetes;exploring+DevSecOps;building+with+Terraform;understanding+distributed+systems;going+deeper+into+SRE" /></div>---
 
 "// philosophy"
 
-understand it
-     ↓
-automate it
-     ↓
-deploy it
-     ↓
-observe it
-     ↓
-improve it
+<div align="center">understand → automate → deploy → observe → improve
 
-No rush to know everything.
+<br><i>No rush to know everything. Just keep going deeper.</i>
 
-Just keep going deeper.
-
----
+</div>---
 
 "// github"
 
@@ -126,9 +85,8 @@ Just keep going deeper.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=whixxy&hide_border=true&theme=github-compact" width="90%"/></div>---
 
-<div align="center">[ SYSTEM ONLINE ]
+<div align="center">"[ SYSTEM ONLINE ]"
 
-low noise.
-high output.
+<br>low noise. high output.
 
 </div>
